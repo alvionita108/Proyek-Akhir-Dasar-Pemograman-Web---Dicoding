@@ -7,4 +7,4 @@ Website yang dibangun ini berisi tentang artikel hewan peliharaan yaitu anjing. 
 
 Website dibangun dengan menggunakan HTML, CSS dan Javascript basic.
 
-Website dapat dilihat pada URL : [a link](https://alvionita108.github.io/Proyek-Akhir-Dasar-Pemograman-Web---Dicoding/)
+Website dapat dilihat dan diakses [disini](https://alvionita108.github.io/Proyek-Akhir-Dasar-Pemograman-Web---Dicoding/)
